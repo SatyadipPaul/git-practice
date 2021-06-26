@@ -1,3 +1,3 @@
 This is a Demo File to be maintained by Git
 
-#Line added2 manuallly to check which branch is impacted
+#Line added manuallly to check which branch is impacted
